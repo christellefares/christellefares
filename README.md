@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Christelle, a software engineering student at Saint Joseph University (USJ).
+
+
 <!--
 **christellefares/christellefares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
