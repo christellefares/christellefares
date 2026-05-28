@@ -6,7 +6,7 @@
 ### ⚡ Fun Facts
 - Lebanese Red Cross Youth Volunteer since 2022  
 - Blood Drive Focal since 2026  
-- Languages: English, French, Arabic, and a bit of Italian  
+- Languages: English, French, Arabic
 
 
 <h3 align="left">🤝Connect with me:</h3>
